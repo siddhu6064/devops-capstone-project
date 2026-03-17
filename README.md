@@ -5,6 +5,9 @@
 
 This repository contains the DevOps Capstone project for building a Customer Accounts microservice using Agile, CI/CD, Docker, Kubernetes and Tekton pipeline.
 
+![Build Status](https://github.com/siddhu6064/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+
+This project implements a RESTful microservice.
 
 ## Development Environment
 
